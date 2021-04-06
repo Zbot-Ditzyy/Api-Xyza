@@ -1,7 +1,7 @@
 
 <div align="center">
  
-# Source Codes - Xyza-Api's
+# Xyza-Api's
 <p align="center">
 <a href="#"><img title="Xyza's API" src="https://img.shields.io/badge/Xyza Api-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
